@@ -1,0 +1,15 @@
+{
+  "name": "skillspector",
+  "description": "Security scanning for AI agent skills, plugins and MCP servers before you install them.",
+  "owner": {
+    "name": "Trevor Wong",
+    "url": "https://github.com/TronJuan"
+  },
+  "plugins": [
+    {
+      "name": "skillspector",
+      "source": "./",
+      "description": "Scan AI agent skills, plugins and MCP servers for prompt injection, data exfiltration and supply-chain risks before you install them."
+    }
+  ]
+}

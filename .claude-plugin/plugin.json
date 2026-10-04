@@ -1,0 +1,13 @@
+{
+  "name": "skillspector",
+  "description": "Scan AI agent skills, plugins and MCP servers for prompt injection, data exfiltration and supply-chain risks before you install them. Uses NVIDIA's SkillSpector with contextual scoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Trevor Wong",
+    "url": "https://github.com/TronJuan"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/TronJuan/skillspector-claude-skill",
+  "repository": "https://github.com/TronJuan/skillspector-claude-skill",
+  "keywords": ["security", "skills", "mcp", "scanner", "prompt-injection"]
+}
